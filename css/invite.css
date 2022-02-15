@@ -2,28 +2,28 @@
     font-family: Whitney;
     font-style: light;
     font-weight: 300;
-    src: url(/projects/discordinvite/font/Whitney300.woff) format("woff")
+    src: url(./font/Whitney300.woff) format("woff")
 }
 
 @font-face {
     font-family: Whitney;
     font-style: normal;
     font-weight: 500;
-    src: url(/projects/discordinvite/font/Whitney500.woff) format("woff")
+    src: url(./font/Whitney500.woff) format("woff")
 }
 
 @font-face {
     font-family: Whitney;
     font-style: medium;
     font-weight: 600;
-    src: url(/projects/discordinvite/font/Whitney600.woff) format("woff")
+    src: url(.font/Whitney600.woff) format("woff")
 }
 
 @font-face {
     font-family: Whitney;
     font-style: bold;
     font-weight: 700;
-    src: url(/projects/discordinvite/font/Whitney700.woff) format("woff")
+    src: url(./font/Whitney700.woff) format("woff")
 }
 
 .main {
@@ -33,7 +33,7 @@
     padding: 14px 20px;
     border-radius: 5px;
     float: left;
-    background-image: url(/projects/discordinvite/img/discord_logo_color.svg);
+    background-image: url(./img/discord_logo_color.svg);
     background-repeat: no-repeat;
     background-position: 296px;
     background-size: 40px;
