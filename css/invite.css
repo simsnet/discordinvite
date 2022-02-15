@@ -16,7 +16,7 @@
     font-family: Whitney;
     font-style: medium;
     font-weight: 600;
-    src: url(.font/Whitney600.woff) format("woff")
+    src: url(./font/Whitney600.woff) format("woff")
 }
 
 @font-face {
